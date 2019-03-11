@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Globo</string>
+
+    <string name="main_activity_toolbar_title">O GLOBO</string>
+
+    <string name="label_news_by">POR</string>
+    <string name="label_picture">FOTO</string>
+    <string name="text_share">Compartilhar...</string>
+    <string name="label_no_posts_found">Nenhum post encontrado, \ntenta novamente mais tarde.</string>
+    <string name="label_internet_posts_found">Não foi possivel estebelecer conexão com a internet.\nTenta novamente mais tarde.</string>
+
+</resources>
